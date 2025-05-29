@@ -296,6 +296,15 @@ nav {
   max-width: 1000px; /* Membatasi lebar maksimal agar tidak terlalu lebar */
   margin: 0 auto; /* Center skills grid */
 }
+
+.skills-title {
+  text-align: center;
+  font-size: 36px;
+  color: var(--primary);
+  margin-bottom: 40px;
+  text-shadow: 0 0 10px var(--glow-color);
+}
+
 .skill-category {
   flex: 1; /* Membuat setiap category mengambil ruang yang sama */
   max-width: 45%; /* Membatasi lebar maksimal */
