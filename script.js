@@ -37,7 +37,7 @@ window.addEventListener("scroll", () => {
 });
 
 // Typewriter effect
-const texts = [" DEVELOPER", "YOUTUBER", "DESIGNER"];
+const texts = [" DEVELOPER", "EDITOR", "DESIGNER"];
 let speed = 100;
 const textElement = document.querySelector(".typewriter-text");
 
